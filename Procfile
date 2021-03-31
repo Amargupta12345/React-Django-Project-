@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT plandjango.wsgi:application
+web: waitress-serve --port=$PORT plan.wsgi:application
